@@ -16,12 +16,4 @@
 		<module>linux-wrapper</module>
 	</modules>
 
-	<repositories>
-		<repository>
-			<id>ARCLOUD</id>
-			<url>http://maven2.ardich.com:8081/nexus/content/repositories/ARCLOUD</url>
-		</repository>
-	</repositories>
-
-
 </project>
